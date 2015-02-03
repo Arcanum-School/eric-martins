@@ -3,13 +3,21 @@
 
 ## Introduction
 
-This is a guide for my friend Eric Martins learn how to be an Arcanum Web Developer. In other words, how to be an Web Developer the right way.
+This is a guide for my friend Eric Martins learn how to be an Arcanum Web Developer. In other words, how to be an web developer the right way.
 
-I created a learning schedule for Him. For each topic schedule I'll write a post on my [blog](http://danilovaz.github.io) and update the topic in CRONOGRAM.md file with the link to the post.
+I created a learning chronogram for him. For each topic chronogram I'll write a post on my [blog](http://danilovaz.github.io) and update the topic in CHRONOGRAM.md file with the link to the post.
 
 Weekly I will create 5 questions related to topics that he learned during the week. The questions will be posted by me in QUESTIONS.md and answered by Eric.
 
-The schedule is not closed, so if you want to suggest a topic, please open an issue and let me know :)
+The chronogram is not closed, so if you want to suggest a topic, please open an issue and let me know :)
+
+## Chronogram
+
+To see the chronogram, click [here] (https://github.com/Arcanum-School/eric-martins/blob/master/CHRONOGRAM.md)
+
+## Questions
+
+To see the questions, click [here] (https://github.com/Arcanum-School/eric-martins/blob/master/QUESTIONS.md)
 
 ## License
 
